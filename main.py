@@ -1,3 +1,3 @@
 print('This is only only only only a test...')
 print('Now its working!!!')
-print('Testing on Raspberry Pi 12')
+print('Testing on Raspberry Pi 13')
